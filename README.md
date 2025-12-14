@@ -5,7 +5,9 @@
 - I am a second-year graduate student pursuing a master degree in BIT (Beijing Institute of Techonology).
 - Research Interests: legged robots, locomotion control, robot learning
 - Hobbies: distance running, k-pop
-- Tech Stack: 
+- Robots I have used: [Unitree Go2](https://www.bilibili.com/video/BV1qW29BbEkN/), [Limx TRON1](https://www.bilibili.com/video/BV1MdePzcEvk/), [Agile-PF](https://www.bilibili.com/video/BV1w1GHzLEHe/)
+- Tech Stack: ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=007396) ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=00599C) ![SolidWorks](https://img.shields.io/badge/-SolidWorks-333333?style=flat&logo=solidworks) ![STM32](https://img.shields.io/badge/-STM32-333333?style=flat&logo=stmicroelectronics) ![RDK](https://img.shields.io/badge/-RDK-orange?style=flat) ![PyTroch](https://img.shields.io/badge/-pytorch-gray?style=flat&logo=pytorch) ![Zsh](https://img.shields.io/badge/-zsh-gray?style=flat&logo=zsh) ![CMake](https://img.shields.io/badge/-cmake-gray?style=flat&logo=cmake) ![Notion](https://img.shields.io/badge/-notion-black?style=flat&logo=notion) ![IsaacGym](https://img.shields.io/badge/-IsaacGym-gray?style=flat) ![Genesis](https://img.shields.io/badge/-Genesis-gray?style=flat) ![Mujoco](https://img.shields.io/badge/-Mujoco-gray?style=flat)
+- Email: jason_1120202397@163.com / jiayasen021003@gmail.com
 
 
 <!--
