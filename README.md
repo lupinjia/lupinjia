@@ -1,13 +1,20 @@
 <h1 align="center">Hi 👋, I'm <a href="https://lupinjia.github.io/">Yasen Jia (lupinjia)</a> </h1>
 
-[<img align="right" src="https://github-readme-stats.vercel.app/api?username=lupinjia&show_icons=true"/>](https://github.com/lupinjia)
-
 - I am a second-year graduate student pursuing a master degree in BIT (Beijing Institute of Techonology).
 - Research Interests: legged robots, locomotion control, robot learning
 - Hobbies: distance running, j-pop
 - Robots I have used: [Unitree Go2](https://www.bilibili.com/video/BV1qW29BbEkN/), [Limx TRON1](https://www.bilibili.com/video/BV1MdePzcEvk/), [Agile-PF](https://www.bilibili.com/video/BV1w1GHzLEHe/)
 - Tech Stack: ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=007396) ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=00599C) ![SolidWorks](https://img.shields.io/badge/-SolidWorks-333333?style=flat&logo=solidworks) ![STM32](https://img.shields.io/badge/-STM32-333333?style=flat&logo=stmicroelectronics) ![RDK](https://img.shields.io/badge/-RDK-orange?style=flat) ![PyTroch](https://img.shields.io/badge/-pytorch-gray?style=flat&logo=pytorch) ![Zsh](https://img.shields.io/badge/-zsh-gray?style=flat&logo=zsh) ![CMake](https://img.shields.io/badge/-cmake-gray?style=flat&logo=cmake) ![Notion](https://img.shields.io/badge/-notion-black?style=flat&logo=notion) ![IsaacGym](https://img.shields.io/badge/-IsaacGym-gray?style=flat) ![Genesis](https://img.shields.io/badge/-Genesis-gray?style=flat) ![Mujoco](https://img.shields.io/badge/-Mujoco-gray?style=flat)
 - Email: jason_1120202397@163.com / jiayasen021003@gmail.com
+
+# Highlighted Repos
+| Title | Description | Stars | Forks |
+| ----- | ----------- | ----- | ----- |
+| [genesis_lr](https://github.com/lupinjia/genesis_lr) | A reinforcement learning framework for training policies for legged robots in [Genesis](https://github.com/Genesis-Embodied-AI/Genesis/tree/main) and [IsaacGym](https://developer.nvidia.com/isaac-gym), which provides numerous implementations of published RL+legged robot papers | ![GitHub Repo stars](https://img.shields.io/github/stars/lupinjia/genesis_lr?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/lupinjia/genesis_lr?style=flat) |
+| [tron1-rl-deploy-python](https://github.com/lupinjia/tron1-rl-deploy-python) | Python deployment code for limx tron1 robot, forked from [limx/tron1-rl-deploy-python](https://github.com/limxdynamics/tron1-rl-deploy-python). Policies used in this repo are all trained using [genesis_lr](https://github.com/lupinjia/genesis_lr) | ![GitHub Repo stars](https://img.shields.io/github/stars/lupinjia/tron1-rl-deploy-python?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/lupinjia/tron1-rl-deploy-python?style=flat) |
+| [go2_deploy](https://github.com/lupinjia/go2_deploy) | C++ deployment code for Unitree Go2 robot, with policies trained in genesis_lr | ![GitHub Repo stars](https://img.shields.io/github/stars/lupinjia/go2_deploy?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/lupinjia/go2_deploy?style=flat) |
+| [go2_deploy_python](https://github.com/lupinjia/go2_deploy_python) | Python deployment code for Unitree Go2 robot, with policies trained in genesis_lr | ![GitHub Repo stars](https://img.shields.io/github/stars/lupinjia/go2_deploy_python?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/lupinjia/go2_deploy_python?style=flat) | 
+| [unitree_mujoco](https://github.com/lupinjia/unitree_mujoco) | Mujoco-based simulator for sim2sim verification, forked from [unitreerobotics/unitree_mujoco](https://github.com/unitreerobotics/unitree_mujoco) | ![GitHub Repo stars](https://img.shields.io/github/stars/lupinjia/unitree_mujoco?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/lupinjia/unitree_mujoco?style=flat) |
 
 
 <!--
