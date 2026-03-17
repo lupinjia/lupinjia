@@ -15,6 +15,7 @@
 | [go2_deploy](https://github.com/lupinjia/go2_deploy) | C++ deployment code for Unitree Go2 robot, with policies trained in LeggedGym-Ex | ![GitHub Repo stars](https://img.shields.io/github/stars/lupinjia/go2_deploy?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/lupinjia/go2_deploy?style=flat) |
 | [go2_deploy_python](https://github.com/lupinjia/go2_deploy_python) | Python deployment code for Unitree Go2 robot, with policies trained in LeggedGym-Ex | ![GitHub Repo stars](https://img.shields.io/github/stars/lupinjia/go2_deploy_python?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/lupinjia/go2_deploy_python?style=flat) | 
 | [unitree_mujoco](https://github.com/lupinjia/unitree_mujoco) | Mujoco-based simulator for sim2sim verification, forked from [unitreerobotics/unitree_mujoco](https://github.com/unitreerobotics/unitree_mujoco). This repo features depth image accessing and publishing via dds through C++ and Python API.| ![GitHub Repo stars](https://img.shields.io/github/stars/lupinjia/unitree_mujoco?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/lupinjia/unitree_mujoco?style=flat) |
+| [booster_deploy](https://github.com/lupinjia/booster_deploy) | My custom version of [official booster_deploy](https://github.com/BoosterRobotics/booster_deploy), using polices trained by LeggedGym-Ex | ![GitHub Repo stars](https://img.shields.io/github/stars/lupinjia/booster_deploy?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/lupinjia/booster_deploy?style=flat) |
 
 
 <!--
