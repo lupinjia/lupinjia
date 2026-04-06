@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://lupinjia.github.io/">Yasen Jia (lupinjia)</a> </h1>
 
-- I am a second-year graduate student pursuing a master degree in BIT (Beijing Institute of Techonology). I'm currently working as an robotics intern at XiaoMi.
+- I am a second-year graduate student pursuing a master degree in BIT (Beijing Institute of Techonology). I'm currently working as a robotics intern at Xiaomi.
 - Research Interests: legged robots, locomotion control, robot learning
 - Hobbies: distance running, j-pop
 - Robots I have used: [Unitree Go2](https://www.bilibili.com/video/BV1riwMzmEZT/), [Limx TRON1](https://www.bilibili.com/video/BV1MdePzcEvk/), [Booster K1](https://www.bilibili.com/video/BV1GyXgBmEa9/)
