@@ -8,15 +8,22 @@
 - Email: jason_1120202397@163.com / jiayasen021003@gmail.com
 - My resume: [resume](https://lupinjia.github.io/uploads/%e8%b4%be%e4%ba%9a%e6%a3%ae_%e7%ae%80%e5%8e%86.pdf)
 
-# Highlighted Repos
+# RL Training
 | Title | Description | Stars | Forks |
 | ----- | ----------- | ----- | ----- |
 | [LeggedGym-Ex](https://github.com/lupinjia/LeggedGym-Ex) | A reinforcement learning framework for training policies of legged robots in [Genesis](https://github.com/Genesis-Embodied-AI/Genesis/tree/main), [IsaacGym](https://developer.nvidia.com/isaac-gym) and [IsaacSim](https://github.com/isaac-sim/IsaacSim/tree/main), which provides numerous implementations of published RL+legged robot papers and supports various robots (including Unitree Go2/G1, Limx Tron1) | ![GitHub Repo stars](https://img.shields.io/github/stars/lupinjia/genesis_lr?style=flat)  | ![GitHub forks](https://img.shields.io/github/forks/lupinjia/genesis_lr?style=flat) |
-| [tron1-rl-deploy-python](https://github.com/lupinjia/tron1-rl-deploy-python) | Python deployment code for limx tron1 robot, forked from [limx/tron1-rl-deploy-python](https://github.com/limxdynamics/tron1-rl-deploy-python). Policies used in this repo are all trained using [LeggedGym-Ex](https://github.com/lupinjia/LeggedGym-Ex) | ![GitHub Repo stars](https://img.shields.io/github/stars/lupinjia/tron1-rl-deploy-python?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/lupinjia/tron1-rl-deploy-python?style=flat) |
+
+# RL Sim2Sim & Sim2Real
+| Title | Description | Stars | Forks |
+| ----- | ----------- | ----- | ----- |
 | [go2_deploy](https://github.com/lupinjia/go2_deploy) | C++ deployment code for Unitree Go2 robot, with policies trained in LeggedGym-Ex | ![GitHub Repo stars](https://img.shields.io/github/stars/lupinjia/go2_deploy?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/lupinjia/go2_deploy?style=flat) |
 | [go2_deploy_python](https://github.com/lupinjia/go2_deploy_python) | Python deployment code for Unitree Go2 robot, with policies trained in LeggedGym-Ex | ![GitHub Repo stars](https://img.shields.io/github/stars/lupinjia/go2_deploy_python?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/lupinjia/go2_deploy_python?style=flat) | 
 | [unitree_mujoco](https://github.com/lupinjia/unitree_mujoco) | Mujoco-based simulator for sim2sim verification, forked from [unitreerobotics/unitree_mujoco](https://github.com/unitreerobotics/unitree_mujoco). This repo features depth image accessing and publishing via dds through C++ and Python API.| ![GitHub Repo stars](https://img.shields.io/github/stars/lupinjia/unitree_mujoco?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/lupinjia/unitree_mujoco?style=flat) |
-| [booster_deploy](https://github.com/lupinjia/booster_deploy) | My custom version of [official booster_deploy](https://github.com/BoosterRobotics/booster_deploy), using polices trained by LeggedGym-Ex | ![GitHub Repo stars](https://img.shields.io/github/stars/lupinjia/booster_deploy?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/lupinjia/booster_deploy?style=flat) |
+| [booster_deploy_cpp](https://github.com/lupinjia/booster_deploy_cpp) | C++ interface for deploying booster_k1 policies | ![GitHub Repo stars](https://img.shields.io/github/stars/lupinjia/booster_deploy_cpp?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/lupinjia/booster_deploy_cpp?style=flat) |
+| [booster_mujoco](https://github.com/lupinjia/booster_mujoco) | Mujoco simulation for validating booster_k1 polices | ![GitHub Repo stars](https://img.shields.io/github/stars/lupinjia/booster_mujoco?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/lupinjia/booster_mujoco?style=flat) |
+# Tools
+| Title | Description | Stars | Forks |
+| ----- | ----------- | ----- | ----- |
 | [GMR_motion_editor](https://github.com/lupinjia/GMR_motion_editor) | Robot motion editor for GMR-format data | ![GitHub Repo stars](https://img.shields.io/github/stars/lupinjia/GMR_motion_editor?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/lupinjia/GMR_motion_editor?style=flat) |
 
 
