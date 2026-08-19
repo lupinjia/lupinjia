@@ -7,6 +7,7 @@
 - Tech Stack: ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=007396) ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=00599C) ![SolidWorks](https://img.shields.io/badge/-SolidWorks-333333?style=flat&logo=solidworks) ![STM32](https://img.shields.io/badge/-STM32-333333?style=flat&logo=stmicroelectronics) ![RDK](https://img.shields.io/badge/-RDK-orange?style=flat) ![PyTroch](https://img.shields.io/badge/-pytorch-gray?style=flat&logo=pytorch) ![Zsh](https://img.shields.io/badge/-zsh-gray?style=flat&logo=zsh) ![CMake](https://img.shields.io/badge/-cmake-gray?style=flat&logo=cmake) ![Notion](https://img.shields.io/badge/-notion-black?style=flat&logo=notion) ![IsaacGym](https://img.shields.io/badge/-IsaacGym-green?style=flat) ![Genesis](https://img.shields.io/badge/-Genesis-gray?style=flat) ![Mujoco](https://img.shields.io/badge/-Mujoco-blue?style=flat) ![Mjlab](https://img.shields.io/badge/-Mjlab-silver?style=flat)
 - Email: jason_1120202397@163.com / jiayasen021003@gmail.com
 - My resume: [resume](https://lupinjia.github.io/uploads/%e8%b4%be%e4%ba%9a%e6%a3%ae_%e7%ae%80%e5%8e%86.pdf)
+- My blog: [blog](https://lupinjia.github.io/blog/)
 
 # RL Training
 | Title | Description | Stars | Forks |
