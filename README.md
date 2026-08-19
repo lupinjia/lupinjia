@@ -26,6 +26,10 @@
 | Title | Description | Stars | Forks |
 | ----- | ----------- | ----- | ----- |
 | [GMR_motion_editor](https://github.com/lupinjia/GMR_motion_editor) | Robot motion editor for GMR-format data | ![GitHub Repo stars](https://img.shields.io/github/stars/lupinjia/GMR_motion_editor?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/lupinjia/GMR_motion_editor?style=flat) |
+# Tutorial
+| Title | Description | Stars | Forks |
+| ----- | ----------- | ----- | ----- |
+| [gan_mode_collapse](https://github.com/lupinjia/gan_mode_collapse) | Visualization of model collapse in GAN (Generative Adversarial Network) | ![GitHub Repo stars](https://img.shields.io/github/stars/lupinjia/gan_mode_collapse?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/lupinjia/gan_mode_collapse?style=flat) |
 
 
 <!--
