@@ -12,7 +12,8 @@
 # RL Training
 | Title | Description | Stars | Forks |
 | ----- | ----------- | ----- | ----- |
-| [LeggedGym-Ex](https://github.com/lupinjia/LeggedGym-Ex) | A reinforcement learning framework for training policies of legged robots in [Genesis](https://github.com/Genesis-Embodied-AI/Genesis/tree/main), [IsaacGym](https://developer.nvidia.com/isaac-gym) and [IsaacSim](https://github.com/isaac-sim/IsaacSim/tree/main), which provides numerous implementations of published RL+legged robot papers and supports various robots (including Unitree Go2/G1, Limx Tron1) | ![GitHub Repo stars](https://img.shields.io/github/stars/lupinjia/genesis_lr?style=flat)  | ![GitHub forks](https://img.shields.io/github/forks/lupinjia/genesis_lr?style=flat) |
+| [LeggedGym-Ex](https://github.com/lupinjia/LeggedGym-Ex) | A reinforcement learning framework for training policies of legged robots in [Genesis](https://github.com/Genesis-Embodied-AI/Genesis/tree/main), [IsaacGym](https://developer.nvidia.com/isaac-gym) and [IsaacSim](https://github.com/isaac-sim/IsaacSim/tree/main), which provides numerous implementations of published RL+legged robot papers and supports various robots (including Unitree Go2/G1, Limx Tron1) | ![GitHub Repo stars](https://img.shields.io/github/stars/lupinjia/LeggedGym-Ex?style=flat)  | ![GitHub forks](https://img.shields.io/github/forks/lupinjia/LeggedGym-Ex?style=flat) |
+| [rsl_rl](https://github.com/lupinjia/rsl_rl) | A fork of [leggedrobotics/rsl_rl](https://github.com/leggedrobotics/rsl_rl) that adds custom implementations for robot motion control on top of the original GPU-accelerated reinforcement learning library (**check dev branch**). | ![GitHub Repo stars](https://img.shields.io/github/stars/lupinjia/rsl_rl?style=flat)  | ![GitHub forks](https://img.shields.io/github/forks/lupinjia/rsl_rl?style=flat) |
 
 # RL Sim2Sim & Sim2Real
 | Title | Description | Stars | Forks |
