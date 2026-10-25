@@ -9,6 +9,11 @@
 - My resume: [resume](https://lupinjia.github.io/uploads/%e8%b4%be%e4%ba%9a%e6%a3%ae_%e7%ae%80%e5%8e%86.pdf)
 - My blog: [blog](https://lupinjia.github.io/blog/)
 
+# Open-source Hardware
+| Title | Description | Stars | Forks |
+| ----- | ----------- | ----- | ----- |
+| [agilepf](https://github.com/lupinjia/agilepf) | An agile and easy-to-reproduce point-foot biped robot | ![GitHub Repo stars](https://img.shields.io/github/stars/lupinjia/agilepf?style=flat)  | ![GitHub forks](https://img.shields.io/github/forks/lupinjia/agilepf?style=flat) |
+
 # RL Training
 | Title | Description | Stars | Forks |
 | ----- | ----------- | ----- | ----- |
